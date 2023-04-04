@@ -1,0 +1,19 @@
+<style>
+/* element selector */
+p{
+    color: rgb(10, 36, 206);
+    font-size: 25px;
+    font-family: cursive;
+    border: 1px solid red;
+    padding: 20px;
+ }
+ body{
+    background-color: rgb(255, 255, 255);
+
+ }
+ .menu{
+    height: 50px;
+    background-color: aquamarine;
+    
+}
+</style>
